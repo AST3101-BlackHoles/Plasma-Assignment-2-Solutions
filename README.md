@@ -8,7 +8,7 @@
 
 ## Problem 1
 
-Compute the mass-radius curve for the attached Equation of State ([eos.csv](eos.csv).
+Compute the mass-radius curve for the attached Equation of State ([eos.csv](eos.csv)).
 This comma-separate value (csv) file contains the following columns
 
   * `pressurec2` : [g/cm^3] : pressure divided by the speed of light squared
