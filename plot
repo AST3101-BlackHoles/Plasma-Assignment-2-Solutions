@@ -59,9 +59,9 @@ radius = data['R'][order] # km
 
 # throw away big radii
 
-keep = radius <= args.max_radius
-mass = mass[keep]
-radius = radius[keep]
+ind = np.arange(len(radius))[radius <= args.max_radius][0]
+mass = mass[ind-1:]
+radius = radius[ind-1:]
 
 # count how many points are left
 

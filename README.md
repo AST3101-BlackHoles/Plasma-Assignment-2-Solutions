@@ -28,6 +28,7 @@
 
 <img src="plot.png">
 
+  * there are 2 stable branches
   * stable branches are shown in blue (solid)
   * unstable branch is shown in red (dashed)
   * Schwarzschild radius is shown with gray (shading)
