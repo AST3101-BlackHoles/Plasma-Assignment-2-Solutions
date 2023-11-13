@@ -27,3 +27,10 @@
 > Plot the Schwarzschild radius as a function of mass on the same axes.
 
 <img src="plot.png">
+
+  * stable branches are shown in blue (solid)
+  * unstable branch is shown in red (dashed)
+  * Schwarzschild radius is shown with gray (shading)
+  * maximum mass is 2.0 Msun
+    - radius at max mass is 11.4 km
+  * radius at 1.4 Msun is 13.2 km
